@@ -2,7 +2,7 @@
 
 Projeto desenvolvido para a disciplina de **Sistemas Embarcados**, do curso de **Análise e Desenvolvimento de Sistemas**, com o objetivo de controlar o ângulo máximo de giro e a velocidade de movimentação de um servo motor utilizando dois potenciômetros e um Arduino Uno.
 
-![Circuito do Controle de Servo Motor](projeto1.png)
+![Circuito do Controle de Servo Motor](Projeto1.png)
 
 ## Sobre o projeto
 
